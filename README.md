@@ -25,3 +25,5 @@ The output of the system is weirdly and surprisingly "normal" despite how simple
 
 ## Sample Audio
 
+MIDI: `musgen-midi.zip` (50 files)
+Wav: `musgen-wav/*.wav` (5 files)
